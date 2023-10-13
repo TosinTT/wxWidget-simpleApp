@@ -3,8 +3,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/Project.dir/App.cpp.obj.d"
   "CMakeFiles/Project.dir/MainFrame.cpp.obj"
   "CMakeFiles/Project.dir/MainFrame.cpp.obj.d"
-  "CMakeFiles/Project.dir/main.cpp.obj"
-  "CMakeFiles/Project.dir/main.cpp.obj.d"
   "Project.exe"
   "Project.exe.manifest"
   "Project.pdb"

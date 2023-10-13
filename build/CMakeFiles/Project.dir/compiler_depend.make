@@ -1366,8 +1366,6 @@ CMakeFiles/Project.dir/MainFrame.cpp.obj: C:/Project/MainFrame.cpp \
   C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xtestintrin.h \
   C:/Project/MainFrame.h
 
-CMakeFiles/Project.dir/main.cpp.obj: C:/Project/main.cpp
-
 
 C:/msys64/ucrt64/include/sys/timeb.h:
 
@@ -2734,5 +2732,3 @@ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsaveintrin.h:
 C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsaveoptintrin.h:
 
 C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/xsavesintrin.h:
-
-C:/Project/main.cpp:

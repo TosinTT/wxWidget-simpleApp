@@ -10,7 +10,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Project/App.cpp" "CMakeFiles/Project.dir/App.cpp.obj" "gcc" "CMakeFiles/Project.dir/App.cpp.obj.d"
   "C:/Project/MainFrame.cpp" "CMakeFiles/Project.dir/MainFrame.cpp.obj" "gcc" "CMakeFiles/Project.dir/MainFrame.cpp.obj.d"
-  "C:/Project/main.cpp" "CMakeFiles/Project.dir/main.cpp.obj" "gcc" "CMakeFiles/Project.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

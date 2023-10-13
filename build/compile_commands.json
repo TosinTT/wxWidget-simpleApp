@@ -1,12 +1,6 @@
 [
 {
   "directory": "C:/Project/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/Project.dir/includes_CXX.rsp -g -o CMakeFiles\\Project.dir\\main.cpp.obj -c C:\\Project\\main.cpp",
-  "file": "C:/Project/main.cpp",
-  "output": "CMakeFiles/Project.dir/main.cpp.obj"
-},
-{
-  "directory": "C:/Project/build",
   "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/Project.dir/includes_CXX.rsp -g -o CMakeFiles\\Project.dir\\MainFrame.cpp.obj -c C:\\Project\\MainFrame.cpp",
   "file": "C:/Project/MainFrame.cpp",
   "output": "CMakeFiles/Project.dir/MainFrame.cpp.obj"

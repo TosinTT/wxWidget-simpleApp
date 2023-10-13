@@ -9,7 +9,7 @@ include(${wxWidgets_USE_FILE})
 
 # Define your project and source files
 set(SOURCES
-    main.cpp
+    
     MainFrame.cpp
     App.cpp
     App.h
